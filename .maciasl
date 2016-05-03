@@ -1,0 +1,6 @@
+[bat] ===Battery Patches===		NullPatch.txt
+[bat] Aa Fix Battery 0% Status	battery/battery_status_0%_fix.txt
+[bat] HP 450	battery/battery_HP_450.txt
+[general] ===General Patches===	NullPatch.txt
+[general] Add AppleLPC	general/AppleLPC_Winth_id_3A18.txt
+[general] Ethernet BuiltIn	general/Ethernet_BuiltIn_Patch.txt
