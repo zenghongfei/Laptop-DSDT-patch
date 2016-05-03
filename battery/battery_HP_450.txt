@@ -1,7 +1,9 @@
-#Maintained by: RehabMan-7#BecKh@m#23 for: Laptop Patches
-#battery_HP-450.txt
+#Maintained by: RehabMan for: Laptop Patches
+#ReWrite by:zenghongfei1
+#Thanks for DanAren,RehabMan and daxuexinsheng!
+#battery_HP_450.txt
 
-# created by DanAren 2014-02-22, finished by RehabMan
+# created by DanAren 2014-02-22, finished by zenghongfei1 2016-05-03
 
 # works for:
 #  HP 450 Notebook
