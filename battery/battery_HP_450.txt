@@ -72,7 +72,7 @@ into method label GBTI code_regex CV03, replaceall_matched begin B1B2(CV30,CV31)
 into method label GBTI code_regex CV04, replaceall_matched begin B1B2(CV40,CV41), end;
 
 into method label GBTI code_regex BMD0, replaceall_matched begin B1B2(MD00,MD01), end;
-into method label GBTI code_regex BMD0), replaceall_matched begin B1B2(MD00,MD01)), end;
+into method label GBTI code_regex BMD0\), replaceall_matched begin B1B2(MD00,MD01)\), end;
 into method label BTIF code_regex BMD0, replaceall_matched begin B1B2(MD00,MD01), end;
 
 into method label BTIF code_regex BMD1, replaceall_matched begin B1B2(MD10,MD11), end;
